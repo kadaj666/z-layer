@@ -1,0 +1,9 @@
+{
+  "USERNAME": "admin",
+  "PASSWORD": "admin",
+  "SERVERS": {
+    "localhost": {
+      "127.0.0.1": "some_api_key"
+    }
+  }
+}
